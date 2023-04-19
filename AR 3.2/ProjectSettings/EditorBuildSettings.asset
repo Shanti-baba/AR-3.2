@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/AR Bottle.unity
+    path: Assets/Scenes/Rum Bottle.unity
     guid: 3bd56a92d16244a4cba25cc2720215f2
   m_configObjects: {}
