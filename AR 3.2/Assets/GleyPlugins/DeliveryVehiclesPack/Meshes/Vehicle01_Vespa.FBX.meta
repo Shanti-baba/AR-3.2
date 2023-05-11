@@ -1,107 +1,237 @@
 fileFormatVersion: 2
 guid: 434536a17f4ec8241aec5bbe0613aed8
-timeCreated: 1454837069
-licenseType: Store
 ModelImporter:
-  serializedVersion: 19
-  fileIDToRecycleName:
-    100000: Helper_BackWheelPosition
-    100002: Helper_FrontWheelPosition
-    100004: Helper_Jack
-    100006: Helper_MainBody
-    100008: Helper_PizzaBox
-    100010: Helper_Steering
-    100012: Vehicle01_BodyMesh
-    100014: Vehicle01_FrontWheelCoverMesh
-    100016: Vehicle01_HandleBarMesh
-    100018: Vehicle01_JackMesh
-    100020: Vehicle01_PizzaBoxMesh
-    100022: Vehicle01_Vespa
-    100024: //RootNode
-    100026: Vehicle01_WheelMesh
-    100028: Vehicle01_PizzaBoxMeshA
-    400000: Helper_BackWheelPosition
-    400002: Helper_FrontWheelPosition
-    400004: Helper_Jack
-    400006: Helper_MainBody
-    400008: Helper_PizzaBox
-    400010: Helper_Steering
-    400012: Vehicle01_BodyMesh
-    400014: Vehicle01_FrontWheelCoverMesh
-    400016: Vehicle01_HandleBarMesh
-    400018: Vehicle01_JackMesh
-    400020: Vehicle01_PizzaBoxMesh
-    400022: Vehicle01_Vespa
-    400024: //RootNode
-    400026: Vehicle01_WheelMesh
-    400028: Vehicle01_PizzaBoxMeshA
-    2300000: Vehicle01_BodyMesh
-    2300002: Vehicle01_FrontWheelCoverMesh
-    2300004: Vehicle01_HandleBarMesh
-    2300006: Vehicle01_JackMesh
-    2300008: Vehicle01_PizzaBoxMesh
-    2300010: Vehicle01_WheelMesh
-    2300012: Vehicle01_PizzaBoxMeshA
-    3300000: Vehicle01_BodyMesh
-    3300002: Vehicle01_FrontWheelCoverMesh
-    3300004: Vehicle01_HandleBarMesh
-    3300006: Vehicle01_JackMesh
-    3300008: Vehicle01_PizzaBoxMesh
-    3300010: Vehicle01_WheelMesh
-    3300012: Vehicle01_PizzaBoxMeshA
-    4300000: Vehicle01_BodyMesh
-    4300002: Vehicle01_JackMesh
-    4300004: Vehicle01_PizzaBoxMesh
-    4300006: Vehicle01_HandleBarMesh
-    4300008: Vehicle01_FrontWheelCoverMesh
-    4300010: Vehicle01_WheelMesh
-    4300012: Vehicle01_PizzaBoxMeshA
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Helper_BackWheelPosition
+  - first:
+      1: 100002
+    second: Helper_FrontWheelPosition
+  - first:
+      1: 100004
+    second: Helper_Jack
+  - first:
+      1: 100006
+    second: Helper_MainBody
+  - first:
+      1: 100008
+    second: Helper_PizzaBox
+  - first:
+      1: 100010
+    second: Helper_Steering
+  - first:
+      1: 100012
+    second: Vehicle01_BodyMesh
+  - first:
+      1: 100014
+    second: Vehicle01_FrontWheelCoverMesh
+  - first:
+      1: 100016
+    second: Vehicle01_HandleBarMesh
+  - first:
+      1: 100018
+    second: Vehicle01_JackMesh
+  - first:
+      1: 100020
+    second: Vehicle01_PizzaBoxMesh
+  - first:
+      1: 100022
+    second: Vehicle01_Vespa
+  - first:
+      1: 100024
+    second: //RootNode
+  - first:
+      1: 100026
+    second: Vehicle01_WheelMesh
+  - first:
+      1: 100028
+    second: Vehicle01_PizzaBoxMeshA
+  - first:
+      4: 400000
+    second: Helper_BackWheelPosition
+  - first:
+      4: 400002
+    second: Helper_FrontWheelPosition
+  - first:
+      4: 400004
+    second: Helper_Jack
+  - first:
+      4: 400006
+    second: Helper_MainBody
+  - first:
+      4: 400008
+    second: Helper_PizzaBox
+  - first:
+      4: 400010
+    second: Helper_Steering
+  - first:
+      4: 400012
+    second: Vehicle01_BodyMesh
+  - first:
+      4: 400014
+    second: Vehicle01_FrontWheelCoverMesh
+  - first:
+      4: 400016
+    second: Vehicle01_HandleBarMesh
+  - first:
+      4: 400018
+    second: Vehicle01_JackMesh
+  - first:
+      4: 400020
+    second: Vehicle01_PizzaBoxMesh
+  - first:
+      4: 400022
+    second: Vehicle01_Vespa
+  - first:
+      4: 400024
+    second: //RootNode
+  - first:
+      4: 400026
+    second: Vehicle01_WheelMesh
+  - first:
+      4: 400028
+    second: Vehicle01_PizzaBoxMeshA
+  - first:
+      23: 2300000
+    second: Vehicle01_BodyMesh
+  - first:
+      23: 2300002
+    second: Vehicle01_FrontWheelCoverMesh
+  - first:
+      23: 2300004
+    second: Vehicle01_HandleBarMesh
+  - first:
+      23: 2300006
+    second: Vehicle01_JackMesh
+  - first:
+      23: 2300008
+    second: Vehicle01_PizzaBoxMesh
+  - first:
+      23: 2300010
+    second: Vehicle01_WheelMesh
+  - first:
+      23: 2300012
+    second: Vehicle01_PizzaBoxMeshA
+  - first:
+      33: 3300000
+    second: Vehicle01_BodyMesh
+  - first:
+      33: 3300002
+    second: Vehicle01_FrontWheelCoverMesh
+  - first:
+      33: 3300004
+    second: Vehicle01_HandleBarMesh
+  - first:
+      33: 3300006
+    second: Vehicle01_JackMesh
+  - first:
+      33: 3300008
+    second: Vehicle01_PizzaBoxMesh
+  - first:
+      33: 3300010
+    second: Vehicle01_WheelMesh
+  - first:
+      33: 3300012
+    second: Vehicle01_PizzaBoxMeshA
+  - first:
+      43: 4300000
+    second: Vehicle01_BodyMesh
+  - first:
+      43: 4300002
+    second: Vehicle01_JackMesh
+  - first:
+      43: 4300004
+    second: Vehicle01_PizzaBoxMesh
+  - first:
+      43: 4300006
+    second: Vehicle01_HandleBarMesh
+  - first:
+      43: 4300008
+    second: Vehicle01_FrontWheelCoverMesh
+  - first:
+      43: 4300010
+    second: Vehicle01_WheelMesh
+  - first:
+      43: 4300012
+    second: Vehicle01_PizzaBoxMeshA
+  externalObjects: {}
   materials:
-    importMaterials: 1
+    materialImportMode: 1
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
-    resampleRotations: 1
+    resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
     motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
-    isReadable: 1
+    isReadable: 0
   meshes:
     lODScreenPercentages: []
     globalScale: 1
-    meshCompression: 0
+    meshCompression: 1
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
     importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 1
-  copyAvatar: 0
   humanDescription:
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -111,11 +241,18 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 0
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
   additionalBone: 0
   userData: 
   assetBundleName: 
