@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Rum Bottle.unity
     guid: 3bd56a92d16244a4cba25cc2720215f2
+  - enabled: 1
+    path: Assets/_Ron/Scenes/Mini City.unity
+    guid: 2684bc52834e32a4a82d9a4ea667801e
   m_configObjects: {}
