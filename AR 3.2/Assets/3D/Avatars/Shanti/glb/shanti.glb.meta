@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 62a09382b0c502140a29feffda284f11
+guid: 7c2ca640558d91b4dbbc0b10f3074a77
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -9,10 +9,10 @@ ScriptedImporter:
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
   editorImportSettings:
-    generateSecondaryUVSet: 1
+    generateSecondaryUVSet: 0
   importSettings:
     nodeNameMethod: 1
-    animationMethod: 1
+    animationMethod: 2
     generateMipMaps: 1
     defaultMinFilterMode: 9729
     defaultMagFilterMode: 9729
