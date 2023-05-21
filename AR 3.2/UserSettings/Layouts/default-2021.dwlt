@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Hierarchy
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 40
+  controlID: 43
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 515
     height: 939
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 23}
   m_Panes:
   - {fileID: 23}
@@ -97,8 +97,8 @@ MonoBehaviour:
     y: 0
     width: 340
     height: 622
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 24}
   m_Panes:
   - {fileID: 24}
@@ -228,7 +228,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 41
+  controlID: 44
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -253,7 +253,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 42
+  controlID: 45
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -394,7 +394,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6c262c1329a02fa49b5cb4c297106f3f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_MinSize: {x: 136, y: 30}
+  m_MinSize: {x: 129, y: 28}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: ProBuilder
@@ -755,22 +755,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Extra Assets/Stylized Bear/Bear/Bear_Textures
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Extra Assets/Stylized Bear/Bear/Bear_Textures
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\USER\Documents\GitHub\AR-3.2\AR 3.2
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 428}
-    m_SelectedIDs: a6f00000
-    m_LastClickedID: 61606
-    m_ExpandedIDs: 000000005c6c00007a6c00008a6c0000926c0000946c00009a6c0000a26c0000a66c0000a86c0000566f0000fc750000667800006a780000687d00006a7d00006c7d00006e7d0000747d00007c7d0000907d0000be7d0000c67d000050d9000036f0000038f0000044f0000046f0000048f0000062f0000064f00000a8f0000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 892}
+    m_SelectedIDs: ee780000
+    m_LastClickedID: 30958
+    m_ExpandedIDs: 00000000687800006a7800006c7800006e78000070780000727800007478000076780000787800007a7800007c7800007e78000080780000827800008478000086780000887800008a7800008c7800008e78000090780000927800009478000096780000987800009a7800009c7800009e780000a0780000a2780000a4780000a6780000a8780000d478000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -798,7 +798,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000
+    m_ExpandedIDs: 00000000687800006a7800006c7800006e78000070780000727800007478000076780000787800007a7800007c7800007e78000080780000827800008478000086780000887800008a7800008c7800008e78000090780000927800009478000096780000987800009a7800009c7800009e780000a0780000a2780000a4780000a6780000a8780000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -928,21 +928,21 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 9a62feffd662fefffe63feffba65fefff665feffd06dfeffd676feff2c7cfeffba84feff9e86feffd28efeff5290feff329afeffa8a3feffdeabfefffcacfeff38adfeffbcb0feff48b5feffc6bdfeff64c9feffbad1feff58d4feff8cdcfeff50defeff8ee6feff5e02ffff5e03ffff6603fffff212ffff0c1fffff4a21ffff9621ffff402cffff326fffff346fffff626fffff706fffff746fffff3682ffff6a83ffff0685ffff8686ffff2487ffff9c87ffff0a89ffffc891ffff3693ffff8893ffff3c95fffff496ffff7c98ffffd499ffff049affff589bffff029effff789fffffeea0ffffaaa2ffffbaa4ffff30a6ffff9aa7ffff10a9ffffc8b1ffff7eb2ffff9cbbffff30fbffff767e00001282000018820000248f00003c8f00006a8f00003290000050930000969300008c960000d296000016a000005aa10000baa2000064a3000002dc0000ecdc00008ce10000a2e10000bae100004ae2000068e200000cf20000eaf500008a0101009001010026170100041b0100581b0100701b01009c1e0100d21e01003a1f0100
+      m_ExpandedIDs: 82e6fffff2e7ffff0ef0ffff82f1ffff22f2ffff2cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: SM_campfire_001_AmbienceFX
-        m_OriginalName: SM_campfire_001_AmbienceFX
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 72662
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -1177,7 +1177,7 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.4817437, y: -0.35839885, z: -0.5598059}
+    m_Target: {x: -0.06996629, y: 0.73555726, z: -0.072117776}
     speed: 2
     m_Value: {x: -0.4817437, y: -0.35839885, z: -0.5598059}
   m_RenderMode: 0
@@ -1226,11 +1226,11 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.17751563, y: -0.1394409, z: 0.02542552, w: -0.9738421}
+    m_Target: {x: -0.29006168, y: -0.008332592, z: 0.0025683392, w: -0.9569667}
     speed: 2
-    m_Value: {x: -0.17755619, y: -0.13798201, z: 0.02515959, w: -0.9740646}
+    m_Value: {x: -0.17751563, y: -0.1394409, z: 0.02542552, w: -0.9738421}
   m_Size:
-    m_Target: 0.8660254
+    m_Target: 1.4187887
     speed: 2
     m_Value: 0.8660254
   m_Ortho:
