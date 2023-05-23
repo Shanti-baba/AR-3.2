@@ -5,6 +5,7 @@ using UnityEngine.EventSystems;
 public class JoystickColor : MonoBehaviour, IPointerDownHandler, IPointerUpHandler
 {
     public GameObject handle;
+    public Animator shoeos_Anim;
     private Image joystickHandleImage;
     private Color originalColor;
     // Start is called before the first frame update
@@ -16,12 +17,14 @@ public class JoystickColor : MonoBehaviour, IPointerDownHandler, IPointerUpHandl
 
     public void OnPointerDown(PointerEventData eventData)
     {
+        shoeos_Anim.enabled = false;
         Debug.Log("Toucchhhh");
         joystickHandleImage.color = Color.red;
     }
 
     public void OnPointerUp(PointerEventData eventData)
     {
+        
         Debug.Log("Releseeee");
         joystickHandleImage.color = originalColor;
     }
