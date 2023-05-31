@@ -14,5 +14,8 @@ public class SliderZoom : MonoBehaviour
         this.transform.localScale = scale;
     }
 
-    
+    public void OriginalScale()
+    {
+        scaleSlider.value = 1f;
+    }
 }

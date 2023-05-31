@@ -15,5 +15,10 @@ public class JoystickRotation : MonoBehaviour
         transform.localRotation *= rotation;
     }
 
+    public void OriginalRot()
+    {
+        transform.localRotation = Quaternion.Euler(0, 90, 0);
+    }
+
    
 }
