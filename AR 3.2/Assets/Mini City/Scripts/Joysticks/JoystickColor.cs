@@ -19,7 +19,7 @@ public class JoystickColor : MonoBehaviour, IPointerDownHandler, IPointerUpHandl
     {
         shoeos_Anim.enabled = false;
         Debug.Log("Toucchhhh");
-        joystickHandleImage.color = Color.red;
+        joystickHandleImage.color = Color.cyan;
     }
 
     public void OnPointerUp(PointerEventData eventData)

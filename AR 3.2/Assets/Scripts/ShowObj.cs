@@ -6,6 +6,11 @@ public class ShowObj : MonoBehaviour
 {
     public float initializedTime;
     public GameObject scene;
+
+    private void Awake()
+    {
+        scene.SetActive(false);
+    }
     // Start is called before the first frame update
     void Start()
     {

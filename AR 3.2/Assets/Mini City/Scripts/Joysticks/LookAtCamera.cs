@@ -14,8 +14,7 @@ public class LookAtCamera : MonoBehaviour
         if (mainCamera != null)
         {
             transform.LookAt(mainCamera.transform);
-            transform.rotation = Quaternion.Euler(transform.rotation.eulerAngles.x, transform.rotation.eulerAngles.y, transform.rotation.eulerAngles.z);
-
+            transform.Rotate(0, 180, 0); // Rotate the object by 180 degrees around the y-axis
         }
     }
 }
