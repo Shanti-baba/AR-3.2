@@ -11,7 +11,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/InteractiveMap.unity
     guid: 63be699e91ceb1b41ace4659c34700e9
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Rum Bottle.unity
     guid: 3bd56a92d16244a4cba25cc2720215f2
   - enabled: 0
@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/Balloon.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/InteractiveMap- scan.unity
+    guid: de100c357e065374fbc8dd8678cc1bfa
   m_configObjects: {}
